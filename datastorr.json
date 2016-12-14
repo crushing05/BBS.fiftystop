@@ -1,0 +1,4 @@
+{
+    "filename": "bbs_fiftystop.rds",
+    "read": "base::readRDS"
+}
